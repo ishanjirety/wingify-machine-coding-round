@@ -1,0 +1,17 @@
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.gap-10 {
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
